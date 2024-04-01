@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Master student at Wuhan University, supervised by Prof. [Jie Yang](http://www.xxx.org/). I received my Bachelor's degree from Minzu University of China in 2019. My research interests include Synthetic Aperture Radar, computer vision and deep learning.
+I am a Master student at Wuhan University, supervised by Prof. Jie Yang. I received my Bachelor's degree from Minzu University of China in 2019. My research interests include Synthetic Aperture Radar, computer vision and deep learning.
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
