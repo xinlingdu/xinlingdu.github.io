@@ -3,8 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-
-I am a Master student at Wuhan University, supervised by Prof. Jie Yang. I received my Bachelor's degree from Minzu University of China in 2019. My research interests include Synthetic Aperture Radar, computer vision and deep learning.
+I am a 1th-year master student in State Key Laboratory of Information Engineering In Surveying, Mapping and Remote Sensing of Wuhan University, jointly advised by Jie Yang(https://liesmars.whu.edu.cn/info/1166/5923.htm) and Weidong Sun.
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
