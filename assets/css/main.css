@@ -29,6 +29,25 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+	.left-1,
+	.right-1 {
+	  height: 300px;
+	  line-height: 20px;
+	  text-align: center;
+	}
+  
+	.left-1 {
+	  float: left;
+	  width: 48%; /* 固定200px */
+	  /* background-color: green; */
+	}
+  
+	.right-1 {
+	  margin-left: 52%; /* 左边宽度再加10px空白 */
+	  /* background-color: black; */
+	  /* color: white; */
+	}
+
 body {
 	line-height: 1;
 }
