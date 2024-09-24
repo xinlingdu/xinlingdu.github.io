@@ -29,6 +29,20 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+/* .img-box{
+	padding-bottom:10%;
+} */
+.img-box img{
+	/* position:absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	width:100%;
+	margin:auto; */
+	height:15rem;object-fit: contain;
+}
+
 	.left-1,
 	.right-1 {
 	  height: 300px;
